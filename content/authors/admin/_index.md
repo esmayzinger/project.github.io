@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: cтуденты НПИ-2022: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
+role: cтуденты НПИ-2022
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: Мы – команда, мозговой штурм в мире математического моделирования. Наша миссия: покорить электрический пробой и доказать, что даже самые сложные явления подвластны анализу и интеллекту. Готовьтесь, будет искрить!В команде: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
+bio: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
