@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳健雄
+title: Команда по проекту математическое моделирование
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Команда.
+last_name: Тема 2
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🆒
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: cтуденты НПИ-2022: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мы – команда, мозговой штурм в мире математического моделирования. Наша миссия: покорить электрический пробой и доказать, что даже самые сложные явления подвластны анализу и интеллекту. Готовьтесь, будет искрить!В команде: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -51,9 +51,18 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: " 1132227133@pfur.ru
+https://github.com/Antmat1412
+1132226533@pfur.ru
+https://github.com/strx40
+1132221553@pfur.ru
+https://github.com/dalesnoy
+1132226527@pfur.ru
+https://github.com/Irgulbic
+1132226489@pfur.ru 
+https://github.com/esmayzinger
+
+"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
