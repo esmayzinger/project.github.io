@@ -3,7 +3,7 @@
 title: Команда по проекту математическое моделирование
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Амуничников Антон, Дымченко Дмитрий, Леснухин Даниил, Майзингер Эллина, Матюхин Павел, Понамарев Алексей
 
 # Full name (for SEO)
 first_name: Команда.
